@@ -47,11 +47,17 @@
 			<version>5.7.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/androidx.test.uiautomator/uiautomator -->
-		<dependency>
+		<!--<dependency>
+			<groupId>androidx.test.uiautomator</groupId>
+			<artifactId>uiautomator</artifactId>
+			<version>2.2.0</version>
+		</dependency>-->
+		<!--<dependency>
 			<groupId>androidx.test.uiautomator</groupId>
 			<artifactId>uiautomator</artifactId>
 			<version>2.2.0</version>
 		</dependency>
+-->
 
 		<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
 		<dependency>
